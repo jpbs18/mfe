@@ -1,4 +1,4 @@
-name: deploy-container
+name: workflow_dispatch
 
 on:
   push:
